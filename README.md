@@ -13,7 +13,7 @@ python export-retinaface-onnx.py
 ```
 
 ```
-python export-facenet-onnx
+python export-facenet-onnx.py
 ```
 
 即可在model_data目录下得到对应的模型
